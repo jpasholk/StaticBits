@@ -1,0 +1,25 @@
+# Jekyll Configuation!
+title: The LittleByte Podcast
+author: LittleByte
+description: >- # this means to ignore newlines until "baseurl:"
+  A podcast for everyone by honest tech enthusiasts.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://podcast.littlebyte.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+timezone: UTC
+
+# Social
+comments: true
+
+# Build settings
+markdown: kramdown
+excerpt_separator: "<!-- more -->"
+theme: jekyll-apple
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
