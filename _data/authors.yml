@@ -1,0 +1,60 @@
+emily:
+  name: "Emily"
+  bio: "Homebrew Developer and Hacking Enthusiast"
+  location: "England"
+  email: "emily@littlebyte.co.uk"
+  avatar: "/assets/avatars/emily.jpg"
+  twitter: "emilylittlebyte"
+
+logan:
+  name: "Logan"
+  bio: "Formerly from ModMy and Android Authority, Logan enjoys writing about all things smartphone related."
+  location: "Michigan, USA"
+  avatar: "/assets/avatars/logan.png"
+  twitter: "garnerlogan65"
+
+lepidus:
+  name: "Lepidus"
+  bio: "Going into his 4th year of iOS development, Lepidus is skilled in all things iOS related."
+  location: "Wisconsin, USA"
+  avatar: "/assets/avatars/lepidus.jpeg"
+  twitter: "lepidusdev"
+
+jpasholk:
+  name: "Jpasholk"
+  bio: "Founder member of JailCast, short stints at iDB & Modmyi, he likes hot coffee, cold beers, good friends and bad jokes."
+  location: "Oregon, US"
+  avatar: "/assets/avatars/jpasholk.png"
+  twitter: "jpasholk"
+
+default:
+  name             :
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              :
+  location         :
+  email            :
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
