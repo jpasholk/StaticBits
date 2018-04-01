@@ -1,6 +1,6 @@
 ---
 title: "Episode 1 - Nothing is ever easy"
-date: "2018-03-02 08:00:52 -0800"
+date: "2018-04-01 08:00:52 -0800"
 keywords: podcast, iOS, Web Development,
 author: Jpasholk
 ---
@@ -9,7 +9,7 @@ author: Jpasholk
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/415539555&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-In this episode William and Josh mostly catch up after a while of them both being busy with life. They initially met while both were active in the jailbreak community, Josh had reached out to William to review one of his tweaks released on Cydia called Sticky. 
+In this episode William and Josh mostly catch up after a while of them both being busy with life. They initially met while both were active in the jailbreak community, Josh had reached out to William to review one of his tweaks released on Cydia called Sticky.
 
 <!-- more -->
 
