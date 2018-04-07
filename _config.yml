@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "LittleByte"
-  avatar           : "/assets/avatars/logo.png"
+  avatar           : "https://littlebyte.co.uk/assets/avatars/logo.png"
   bio              : "Hacking and Gaming News"
   location         :
   email            : "inbox@littlebyte.co.uk"
