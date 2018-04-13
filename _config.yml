@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The LittleByte Podcast"
+title                    : "LittleByte Podcast"
 title_separator          : "-"
 name                     : "LittleByte"
 description              : "LittleByte News"
