@@ -1,25 +1,3 @@
-emily:
-  name: "Emily"
-  bio: "Homebrew Developer and Hacking Enthusiast"
-  location: "England"
-  email: "emily@littlebyte.co.uk"
-  avatar: "/assets/avatars/emily.jpg"
-  twitter: "emilylittlebyte"
-
-logan:
-  name: "Logan"
-  bio: "Formerly from ModMy and Android Authority, Logan enjoys writing about all things smartphone related."
-  location: "Michigan, USA"
-  avatar: "/assets/avatars/logan.png"
-  twitter: "garnerlogan65"
-
-lepidus:
-  name: "Lepidus"
-  bio: "Going into his 4th year of iOS development, Lepidus is skilled in all things iOS related."
-  location: "Wisconsin, USA"
-  avatar: "/assets/avatars/lepidus.jpeg"
-  twitter: "lepidusdev"
-
 jpasholk:
   name: "Jpasholk"
   bio: "Founder member of JailCast, short stints at iDB & Modmyi, he likes hot coffee, cold beers, good friends and bad jokes."
