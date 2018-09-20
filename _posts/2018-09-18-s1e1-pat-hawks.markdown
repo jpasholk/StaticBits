@@ -4,8 +4,10 @@ date: "2018-09-18 08:40:54 -0700"
 comments: true
 ---
 
-## Show Notes
+### Show Notes
 
 In our first episode, Pat Hawks joins us to start with a bang. He is one of the maintainers of Jekyll, which is one of the most popular static site generators out there. He talks a little about how he got into web development and how he came to be a maintainer of the Jekyll project, including his very first pull request!
+
+
 
 <!-- more -->
