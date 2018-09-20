@@ -13,8 +13,8 @@ title                    : "Static Bits"
 title_separator          : "-"
 name                     : "Static Bits"
 description              : "A web development podcast focusing on static site generators."
-url                      : ""
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https:jpasholk.com"
+baseurl                  : /StaticBits
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/Logo.png"
 words_per_minute         : 200
