@@ -1,15 +1,43 @@
 ---
-title: "S1:E1 - Pat Hawks, one of Jekyll's maintainers"
+title: "Season 1: Episode 1 - Pat Hawks, one of Jekyll's maintainers"
 date: "2018-09-18 08:40:54 -0700"
 header:
   teaser: /Logo.png
 comments: true
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502632357&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 ### Show Notes
 
 In our first episode, Pat Hawks joins us to start with a bang. He is one of the maintainers of Jekyll, which is one of the most popular static site generators out there. He talks a little about how he got into web development and how he came to be a maintainer of the Jekyll project, including his very first pull request!
 
-
-
 <!-- more -->
+
+We then dig into what static site generators are and what makes a static site different from a dynamic one. From there Pat and Josh chat for the rest of the show about Jekyll, and it's various uses.
+
+## Questions
+
+1. What is a static site?
+2. What is a static site generator?
+3. How do they work?
+4. What are the benefits and drawbacks
+5. What is Jekyll?
+6. Why should someone choose Jekyll?
+7. How long have you been a maintainer of the Jekyll project?
+8. Any other static site generators you like?
+9. Bonus: Jekyll on a pi?
+
+
+### Links
+
+* [Jekyll's site](https://jekyllrb.com/) - please if you haven't yet go check this out!
+* [Pat's site](https://pathawks.com/), go check out his website!
+* [Expose Jekyll version to templates](https://github.com/jekyll/jekyll/pull/1481). Pat's first pull request merged into the Jekyll project.
+* [Netlify Blog](https://www.netlify.com/blog/2017/05/25/top-ten-static-site-generators-of-2017/) article on static site generators.
+* [Hackernoon Article](https://hackernoon.com/guide-into-static-site-generators-120514a22e25) on static site generators.
+* [Wp2static.com](https://wp2static.com/) A Wordpress Static Site Generator.
+
+### Thank you
+
+Thank you for stopping by! If you liked what you heard in this episode, feel free to rate and share it.
