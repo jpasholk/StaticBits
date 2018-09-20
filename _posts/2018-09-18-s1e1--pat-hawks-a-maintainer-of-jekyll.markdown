@@ -4,7 +4,7 @@ title: "S1:E1 - Pat Hawks, a maintainer of Jekyll"
 date: "2018-09-18 08:40:54 -0700"
 ---
 
-![Season 1 : Episode 1 - Guest, Pat Hawks](/assets/images/S1E1-Header.PNG)
+![Season 1 : Episode 1 - Guest, Pat Hawks](https://jpasholk.com/StaticBits/assets/images/S1E1-Header.PNG)
 
 ## Show Notes
 
