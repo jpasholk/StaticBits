@@ -36,7 +36,7 @@ We then dig into what static site generators are and what makes a static site di
 * [Expose Jekyll version to templates](https://github.com/jekyll/jekyll/pull/1481). Pat's first pull request merged into the Jekyll project.
 * [Netlify Blog](https://www.netlify.com/blog/2017/05/25/top-ten-static-site-generators-of-2017/) article on static site generators.
 * [Hackernoon Article](https://hackernoon.com/guide-into-static-site-generators-120514a22e25) on static site generators.
-* [Wp2static.com](https://wp2static.com/) A Wordpress Static Site Generator.
+* [Wp2static.com](https://wp2static.com/) A WordPress Static Site Generator.
 
 ### Thank you
 

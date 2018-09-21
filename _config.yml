@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Static Bits"
 description              : "A web development podcast focusing on static site generators."
 url                      : "https://staticbits.xyz"
-baseurl                  : 
+baseurl                  :
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/Logo.png"
 words_per_minute         : 200
@@ -72,7 +72,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/Logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -92,7 +92,7 @@ author:
   name             : "Static Bits"
   avatar           : "/Logo.png"
   bio              : "Your Static Site Generator Podcast"
-  location         :
+  location         : 
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -110,7 +110,7 @@ author:
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/staticbits"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
