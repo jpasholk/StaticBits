@@ -12,8 +12,6 @@ comments: true
 
 In our first episode, Pat Hawks joins us to start with a bang. He is one of the maintainers of Jekyll, which is one of the most popular static site generators out there. He talks a little about how he got into web development and how he came to be a maintainer of the Jekyll project, including his very first pull request!
 
-<!-- more -->
-
 We then dig into what static site generators are and what makes a static site different from a dynamic one. From there Pat and Josh chat for the rest of the show about Jekyll, and it's various uses.
 
 ## Questions
