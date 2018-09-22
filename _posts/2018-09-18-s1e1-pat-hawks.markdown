@@ -40,4 +40,4 @@ We then dig into what static site generators are and what makes a static site di
 
 Thank you for stopping by! If you liked what you heard in this episode, feel free to rate and share it.
 
-<a href="https://itunes.apple.com/us/podcast/season-1-episode-1-pat-hawks-one-of-jekylls-maintainers/id1436888604?i=1000420140549&mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(/assets/images/ApplePodcasts.svg)no-repeat;width:140px;height:34px;background-size:cover;"></a>
+<a href="https://itunes.apple.com/us/podcast/season-1-episode-1-pat-hawks-one-of-jekylls-maintainers/id1436888604?i=1000420140549&mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(https://staticbits.xyz/assets/images/ApplePodcasts.svg)no-repeat;width:140px;height:34px;background-size:cover;"></a>
