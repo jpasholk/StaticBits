@@ -43,7 +43,7 @@ Stay tuned for more episodes with guests from the static site community!
 
 * [Open Collective - Donate to Jekyll](https://opencollective.com/jekyll){:target="_ blank"}
 * [Travis Buddy](https://github.com/bluzi/travis-buddy){:target="_ blank"}
-* [Glim - A nee static site generator](https://github.com/sorbits/glim){:target="_ blank"}
+  * [Glim - A nee static site generator](https://github.com/sorbits/glim){:target="_ blank"}
  * [More on Glim](https://sigpipe.macromates.com/2018/creating-a-faster-jekyll/){:target="_ blank"}
 * [the New Dynamic](https://www.thenewdynamic.org/){:target="_ blank"}
 * [TakeShape](https://www.takeshape.io/){:target="_ blank"}
