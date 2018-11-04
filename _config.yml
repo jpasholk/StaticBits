@@ -91,8 +91,8 @@ analytics:
 author:
   name             : "Static Bits"
   avatar           : "/Logo.png"
-  bio              : "Your Static Site Generator Podcast"
-  location         : 
+  bio              : "Your Static Site Podcast"
+  location         :
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
