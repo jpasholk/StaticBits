@@ -1,5 +1,5 @@
 ---
-title: "Season 1: Episode 2 - Leon Stafford, Creator of WordPress Static Site Generator."
+title: "Season 1: Episode 2 - Leon Stafford, Creator of WordPress Static Site Generator"
 date: "2018-10-08 19:04:25 -0700"
 header:
   teaser: /Logo.png
