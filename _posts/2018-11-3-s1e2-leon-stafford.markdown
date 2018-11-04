@@ -46,7 +46,7 @@ Stay tuned for more episodes with guests from the static site community!
 * [Glim - A nee static site generator](https://github.com/sorbits/glim){:target="_ blank"}
  * [More on Glim](https://sigpipe.macromates.com/2018/creating-a-faster-jekyll/){:target="_ blank"}
 * [the New Dynamic](https://www.thenewdynamic.org/){:target="_ blank"}
-* [TakeShape](https://www.takeshape.io/){:target="_ blank"} A stress-free Headless CMS, GraphQL API, and Static Site Generator to help you get your projects done
-* [Snipcart](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll){:target="_ blank"} Article on integrating Snipcart with Jekyll.
+* [TakeShape](https://www.takeshape.io/){:target="_ blank"}
+* [Snipcart](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll){:target="_ blank"}
 
 <small><em>We're sorry for the bumping on the track in this episode - we're always working to bring the best quality content possible, we appreciate your understanding.</em></small>
