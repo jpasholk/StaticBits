@@ -23,3 +23,4 @@ He also reveals that he is indeed a Super Villan that lives under a volcano with
 * [JAMstack Conf Youtube Channel](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/feed){:target="_ blank"}
 * [Ask Netlify](https://ask.netlify.com){:target="_ blank"}
     * [Episode 1](https://ask.netlify.com/episode/01/){:target="_ blank"}
+* [Squoosh](https://squoosh.app){:target="_ blank"}
