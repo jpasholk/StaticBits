@@ -6,7 +6,7 @@ header:
 comments: true
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/524623647&color=%230b0707&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/663a9ed2?color=3d3d3d' width='100%'></iframe>
 
 In this episode, Leon Stafford, the developer of [WP Static Site Generator](https://wp2static.com/){:target="_ blank"} joins your host [Jpasholk](https://twitter.com/jpasholk){:target="_ blank"}. They chat for a bit and then cover the recent news and some interesting articles from around the static site sphere in the last few weeks.
 

@@ -6,9 +6,9 @@ header:
 comments: true
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/544686837&color=%230b0708&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/e6a65f1b?color=3d3d3d' width='100%'></iframe>
 
-We were able to have a nice chat with Phil Hawksworth in our third episode. After introducing himself and talking a bit about coming to work for Netlify, Phil then answers some questions about the JAMstack, Netlify, the JAMstack Conference, and more. 
+We were able to have a nice chat with Phil Hawksworth in our third episode. After introducing himself and talking a bit about coming to work for Netlify, Phil then answers some questions about the JAMstack, Netlify, the JAMstack Conference, and more.
 
 He also reveals that he is indeed a Super Villan that lives under a volcano with submarine access, complete with a spectacular British accent.
 

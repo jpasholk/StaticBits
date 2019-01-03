@@ -6,7 +6,7 @@ header:
 comments: true
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502632357&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/6c7f1d66?color=3d3d3d' width='100%'></iframe>
 
 In our first episode, Pat Hawks joins us to start with a bang. He is one of the maintainers of Jekyll, which is one of the most popular static site generators out there. He talks a little about how he got into web development and how he came to be a maintainer of the Jekyll project, including his very first pull request!
 
