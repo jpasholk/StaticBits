@@ -1,0 +1,46 @@
+---
+title: "Season 1: Episode 5 - Franck and Charles of SnipCart"
+date: "2019-04-01 07:00:16 -0700"
+header:
+  teaser: /Logo.png
+comments: true
+---
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a6d24b82-1130-45aa-ad17-acd94a495b95?dark=true"></iframe>
+
+In this episode, Franck and Charles of [SnipCart](https://snipcart.com/){:target="_ blank"} join us for a chat about eCommerce on static sites. After talking about the challenges of developing SnipCart, they both talk a lot about the JAMstack in general and their thoughts on how to contribute.
+
+## Questions
+
+1. Intro.
+
+2. What is SnipCart?
+
+3. How does SnipCart solve the problem of having a shopping cart on a static site?
+
+4. What was the main hurdle in developing SnipCart?
+
+5. Bonus: Is the JAMstack the opposite of Full Stack?
+
+6. Bonus: Does the JAMstack lead to JavaScript bloat?
+
+7. Bonus: TypeScript Chat!
+
+8. What are the limitations of eCommerce on a static site?
+
+9. What are some ways to sell the JAMstack to clients?
+
+10. Do developers have more of a say on what stack to use?
+
+11. What are your thoughts on the various Static Site Generators?
+
+12. Bonus: Marketing chat!
+
+13. What are some ways to contribute to the JAMstack community?
+
+## Thank you
+
+Thanks for listening!
+
+We took a bit of a hiatus between episodes but we hope to get back to bringing you monthly episodes if not more!
+
+Stay tuned!
