@@ -1,5 +1,5 @@
 ---
-title: "Season 1: Episode 3 - Phil Hawksworth, Head of Devloper Relations at Netlify"
+title: "Season 1: Episode 3 - Phil Hawksworth, Head of Developer Relations at Netlify"
 date: "2018-12-13 19:13:53 -0800"
 header:
   teaser: /Logo.png
